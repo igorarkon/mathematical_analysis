@@ -1,0 +1,18 @@
+Найти неопределенный интегралл
+
+∫(2x^2 - 2x - 1 - sinx - cosx + lnx + e^x)dx
+∫2x^2dx - ∫2xdx - ∫1dx - ∫sin(x)dx - ∫cos(x)dx + ∫ln(x) + ∫e^xdx
+2x^3 - x^2 - 2x + cos(x) - sin(x) + xln(x) + e^x
+
+
+∫(2x +6xz^2 - 5x^2y - 3ln(z))dx
+(6z^2 + 2)∫xdx - 5y∫x^2dx - 3ln(z)∫1dx
+((6*z^2 + 2)*x^2) / 2  -  (5*yx^3) / 3  -  3*ln(z)x + C =
+- (x(x(5yx - 9z^2 - 3) + 9ln(z))) / 3 + C
+
+
+п∫0  3x^2 * sin(2x) dx 
+3(-(2п^2 - 1))/4 - 1/4)
+
+
+∫1/((√x+1))dx = 2√(x+1) + C
